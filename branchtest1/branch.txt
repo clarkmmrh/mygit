@@ -8,3 +8,5 @@ mygitClone2 second add
 mygitClone2 third add
 mygitClone2 four add
 mygitClone2 five add
+
+mygitClone1 add1
