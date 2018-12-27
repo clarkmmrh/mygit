@@ -4,3 +4,4 @@ mygitClone1 second add
 mygitClone1 third add
 mygitClone2 add
 mygitClone2 second add
+mygitClone2 third add
