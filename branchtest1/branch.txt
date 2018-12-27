@@ -2,6 +2,7 @@ test branch
 mygitClone1 add
 mygitClone1 second add
 mygitClone1 third add
+mygitClone1 four add
 mygitClone2 add
 mygitClone2 second add
 mygitClone2 third add
