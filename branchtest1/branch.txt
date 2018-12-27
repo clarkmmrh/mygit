@@ -1,5 +1,6 @@
 test branch
-branchtest1 add
-branchtest1 second add
-branchtest2 add
+mygitClone1 add
+mygitClone1 second add
+mygitClone1 third add
+mygitClone2 add
 mygitClone2 second add
